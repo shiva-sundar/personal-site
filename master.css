@@ -1,0 +1,97 @@
+.nav-components{
+  color:white;
+
+}
+
+.nav-components:hover{
+  font-size:103%;
+}
+
+#top
+{
+  background-color: #222831 ;
+}
+
+#tagline{
+  font-family: 'Josefin Slab', serif;
+  color:white;
+  text-align: center;
+  padding-bottom:180px;
+}
+#skills{
+
+padding-top: 10px;
+padding-bottom: 10px;
+
+
+}
+img
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+h1
+{
+      font-family: "PT Serif", serif;
+    /*
+  font-family: 'Ubuntu', sans-serif;
+
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Josefin Slab', serif;
+  font-family: 'Tangerine', cursive;
+  */
+  color: white;
+  font-size: 450%;
+  text-align: center;
+  padding-top: 150px;
+  line-height: 1.5;
+  padding-bottom: 5px;
+
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+h4
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*img{
+    border-left:3px  solid white;
+    border-right:3px  solid white;
+
+}
+*/
+.bio-content{
+  padding:40px;
+  padding-right: 10px;
+  color:white;
+  word-spacing: 3px;
+  line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+
+}
+#bio{
+  padding-top: 10px;
+  background-color: #2C2E43  ;
+}
+
+.icon{
+  text-align: center;
+    margin-bottom: 3%;
+
+}
+.icon:hover{
+  font-size: 110%;
+
+}
+
+.email{
+  margin-top: 3%;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 140%;
+
+}
